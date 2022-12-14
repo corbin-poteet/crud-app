@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.51fcd299.js",
+    "static/js/496.5073391a.chunk.js": "/static/js/496.5073391a.chunk.js",
+    "static/media/LARGE-Wiki (2).jpg": "/static/media/LARGE-Wiki (2).c2c411c86301b1bc5f13.jpg",
+    "index.html": "/index.html",
+    "static/media/Sensibleworld-Starwars-Death-Star.svg": "/static/media/Sensibleworld-Starwars-Death-Star.8aaefd7978c65f064d27d11a18f39484.svg",
+    "main.51fcd299.js.map": "/static/js/main.51fcd299.js.map",
+    "496.5073391a.chunk.js.map": "/static/js/496.5073391a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.51fcd299.js"
+  ]
+}
